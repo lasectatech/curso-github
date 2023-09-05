@@ -5,3 +5,4 @@ Repo del curso de github de lst
 Este es mi primer commit a  un repo remoto
 
 ## Commit desde branch dev
+Ahora la rama esta protegida y no permite ingresar cambios directamente
