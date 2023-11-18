@@ -9,3 +9,4 @@ Ahora la rama esta protegida y no permite ingresar cambios directamente
 
 ## Colaboradores
 - La Secta
+- Carlos Junior Ramos Vásquez :v:
